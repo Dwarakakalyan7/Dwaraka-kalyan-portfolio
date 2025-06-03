@@ -76,7 +76,7 @@ const TYPING_SPEED = 100;
 const ERASING_SPEED = 50;
 const PAUSE_DURATION = 2000;
 const WORDS = ["Data Ingestion", "Data Processing & Transformation","Data Storage & Management"];
-const TECH_STACK = ["Python", "SQL", "Numpy", "Pandas", "Git", "Github", "Bigdata","Spark","Airflow", "Kafka", "Snowflake", "Docker", "Kubernetes","Hadoop", "AWS", "Azure", "JyputerNotebook"];
+const TECH_STACK = ["Python", "SQL", "Git", "Bigdata","Spark","Airflow", "Kafka", "Snowflake", "Docker","Hadoop", "AWS", "Azure",];
 const SOCIAL_LINKS = [
   { icon: Github, link: "https://github.com/Dwarakakalyan7" },
   { icon: Linkedin, link: "http://linkedin.com/in/dwaraka-kalyan-data-engineer" }
